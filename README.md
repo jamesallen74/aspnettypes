@@ -1,7 +1,7 @@
 # aspnettypes
 This repo shows you the various types of ASP.Net projects in NET5 (formerly DotNetCore).
 
-**Type | Comment**
+**Type** | **Comment**
 ----- |-----
 **MVC** | the first modern ASP.Net Framework beyond legacy WebForms
 **WebAPI** | for API development
